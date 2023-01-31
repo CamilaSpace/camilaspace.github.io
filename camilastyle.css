@@ -1,0 +1,52 @@
+section{
+    background: rgb(164, 95, 95);
+    color: darkmagenta;
+    padding: 40px;
+    
+}
+
+body{
+        background-image: url(piano.jpg);
+        /*background:rgb(132, 116, 131);*/
+    }
+    h1{
+        color: blueviolet;
+    }
+
+
+
+nav div{
+    display: inline;
+}
+
+header{
+    background: black;
+    color: white;
+    margin: 90px, 20px, 20px, 90px;
+}
+
+footer{
+    background: yellow;
+}
+
+div{
+  background:pink; 
+  color: purple;  
+  padding: 40px; 
+  margin: 90px;
+}
+
+#butt1{
+    border-radius: 5px;
+    border-width: 0px;
+    
+}
+#Instagrambutt{
+    border-radius: 5px;
+    border-width: 5px;
+}
+
+section div{
+    background: green;
+    margin: 40px;
+}
